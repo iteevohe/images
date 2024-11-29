@@ -116,7 +116,7 @@
           <mxGeometry x="575" y="116" width="249" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4Wf9d1rDj4cqY6XMbrsE-15" value="PG非消除" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#F8988D;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
-          <mxGeometry x="583" y="462.5" width="238" height="36.5" as="geometry" />
+          <mxGeometry x="588" y="460" width="238" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="4Wf9d1rDj4cqY6XMbrsE-16" value="福运象财神" style="shape=step;perimeter=stepPerimeter;strokeColor=#FF99CC;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#FFCCE6;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
           <mxGeometry x="709" y="171.5" width="113" height="35" as="geometry" />
