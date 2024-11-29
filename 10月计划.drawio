@@ -56,7 +56,7 @@
           <mxGeometry x="228" y="368" width="213" height="34" as="geometry" />
         </mxCell>
         <mxCell id="CsTmaGD1aU-mV8qhUe4z-2" value="扫雷" style="shape=step;perimeter=stepPerimeter;strokeColor=#FF99CC;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#FFCCE6;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="1" vertex="1">
-          <mxGeometry x="568" y="219" width="260" height="35" as="geometry" />
+          <mxGeometry x="568" y="219" width="258" height="35" as="geometry" />
         </mxCell>
         <mxCell id="CsTmaGD1aU-mV8qhUe4z-4" value="赏金船长" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#f8cecc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="1" vertex="1">
           <mxGeometry x="320" y="168" width="152" height="37" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry x="586" y="460" width="238" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="4Wf9d1rDj4cqY6XMbrsE-16" value="福运象财神" style="shape=step;perimeter=stepPerimeter;strokeColor=#FF99CC;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#FFCCE6;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
-          <mxGeometry x="728" y="171.5" width="99" height="35" as="geometry" />
+          <mxGeometry x="725" y="171.5" width="99" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4Wf9d1rDj4cqY6XMbrsE-17" value="PG非消除" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#F8988D;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
           <mxGeometry x="582" y="505.5" width="242" height="36.5" as="geometry" />
@@ -139,7 +139,7 @@
         <mxCell id="4Wf9d1rDj4cqY6XMbrsE-31" value="&lt;font color=&quot;#67ab9f&quot; style=&quot;&quot; face=&quot;Courier New&quot;&gt;&lt;b style=&quot;&quot;&gt;12月13号搭建外网saas&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="135.5" y="605" width="282" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="4Wf9d1rDj4cqY6XMbrsE-33" value="&lt;font color=&quot;#67ab9f&quot; style=&quot;&quot; face=&quot;Courier New&quot;&gt;&lt;b style=&quot;&quot;&gt;1月9号交付saas上线版本&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="4Wf9d1rDj4cqY6XMbrsE-33" value="&lt;font color=&quot;#67ab9f&quot; style=&quot;&quot; face=&quot;Courier New&quot;&gt;&lt;b style=&quot;&quot;&gt;1月10号交付saas上线版本&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="458" y="605" width="282" height="61" as="geometry" />
         </mxCell>
       </root>
