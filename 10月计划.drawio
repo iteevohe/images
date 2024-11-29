@@ -46,7 +46,7 @@
         <mxCell id="jHLEkjA2fBFGdiIuungd-19" value="cocos_3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCC99;" parent="1" vertex="1">
           <mxGeometry x="96" y="322" width="118" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="jHLEkjA2fBFGdiIuungd-20" value="非消除JILI" style="shape=step;perimeter=stepPerimeter;strokeColor=#FF99CC;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#FFCCE6;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="1" vertex="1">
+        <mxCell id="jHLEkjA2fBFGdiIuungd-20" value="JILI非消除" style="shape=step;perimeter=stepPerimeter;strokeColor=#FF99CC;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#FFCCE6;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="1" vertex="1">
           <mxGeometry x="573" y="319.25" width="251" height="35" as="geometry" />
         </mxCell>
         <mxCell id="jHLEkjA2fBFGdiIuungd-21" value="server_3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCC99;" parent="1" vertex="1">
