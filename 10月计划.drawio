@@ -58,7 +58,7 @@
         <mxCell id="CsTmaGD1aU-mV8qhUe4z-2" value="扫雷" style="shape=step;perimeter=stepPerimeter;strokeColor=#FF99CC;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#FFCCE6;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="1" vertex="1">
           <mxGeometry x="677" y="410" width="150" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="CsTmaGD1aU-mV8qhUe4z-4" value="赏金船长" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#f8cecc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="1" vertex="1">
+        <mxCell id="CsTmaGD1aU-mV8qhUe4z-4" value="阿里巴巴" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#f8cecc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="1" vertex="1">
           <mxGeometry x="320" y="168" width="152" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CsTmaGD1aU-mV8qhUe4z-5" value="伽罗宝石2" style="shape=step;perimeter=stepPerimeter;strokeColor=#6C8EBF;fontFamily=Helvetica;fontSize=14;fontColor=#6C8EBF;fillColor=#dae8fc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="1" vertex="1">
@@ -91,8 +91,8 @@
         <mxCell id="4Wf9d1rDj4cqY6XMbrsE-5" value="阿里巴巴 " style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#F8988D;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
           <mxGeometry x="320" y="115.5" width="270" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="4Wf9d1rDj4cqY6XMbrsE-6" value="阿里巴巴" style="shape=step;perimeter=stepPerimeter;strokeColor=#FF99CC;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#FFCCE6;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
-          <mxGeometry x="461" y="170" width="142" height="35" as="geometry" />
+        <mxCell id="4Wf9d1rDj4cqY6XMbrsE-6" value="赏金船长" style="shape=step;perimeter=stepPerimeter;strokeColor=#FF99CC;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#FFCCE6;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
+          <mxGeometry x="459" y="170" width="142" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4Wf9d1rDj4cqY6XMbrsE-7" value="封神" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#F8988D;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
           <mxGeometry x="318.5" y="268.25" width="151" height="36.5" as="geometry" />
@@ -125,16 +125,10 @@
           <mxGeometry x="580" y="508" width="242" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="4Wf9d1rDj4cqY6XMbrsE-18" value="无限王牌" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#F8988D;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
-          <mxGeometry x="548" y="364.5" width="132" height="36.5" as="geometry" />
+          <mxGeometry x="548" y="364.5" width="268" height="36.5" as="geometry" />
         </mxCell>
-        <mxCell id="4Wf9d1rDj4cqY6XMbrsE-19" value="赏金船长" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#F8988D;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
-          <mxGeometry x="575" y="268.25" width="149" height="36.5" as="geometry" />
-        </mxCell>
-        <mxCell id="4Wf9d1rDj4cqY6XMbrsE-21" value="PG非消除" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#F8988D;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
-          <mxGeometry x="713" y="269" width="114" height="36.5" as="geometry" />
-        </mxCell>
-        <mxCell id="4Wf9d1rDj4cqY6XMbrsE-23" value="PG非消除" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#F8988D;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
-          <mxGeometry x="668" y="364.5" width="156" height="36.5" as="geometry" />
+        <mxCell id="4Wf9d1rDj4cqY6XMbrsE-21" value="PG非消除" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#F8988D;fixedSize=1;size=14;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
+          <mxGeometry x="577" y="268.25" width="114" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="4Wf9d1rDj4cqY6XMbrsE-31" value="&lt;font color=&quot;#67ab9f&quot; style=&quot;&quot; face=&quot;Courier New&quot;&gt;&lt;b style=&quot;&quot;&gt;12月13号搭建外网saas&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="154" y="571" width="282" height="61" as="geometry" />
@@ -147,6 +141,9 @@
         </mxCell>
         <mxCell id="4Wf9d1rDj4cqY6XMbrsE-35" value="&lt;font color=&quot;#67ab9f&quot; style=&quot;&quot; face=&quot;Courier New&quot;&gt;&lt;b style=&quot;&quot;&gt;1月第2周&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="827" y="49" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="4Wf9d1rDj4cqY6XMbrsE-36" value="PG非消除" style="shape=step;perimeter=stepPerimeter;strokeColor=#FF99CC;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#FFCCE6;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
+          <mxGeometry x="682" y="269" width="131" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
