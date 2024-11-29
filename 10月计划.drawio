@@ -56,7 +56,7 @@
           <mxGeometry x="228" y="368" width="213" height="34" as="geometry" />
         </mxCell>
         <mxCell id="CsTmaGD1aU-mV8qhUe4z-2" value="扫雷" style="shape=step;perimeter=stepPerimeter;strokeColor=#FF99CC;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#FFCCE6;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="1" vertex="1">
-          <mxGeometry x="685" y="410" width="141" height="35" as="geometry" />
+          <mxGeometry x="683" y="411" width="141" height="35" as="geometry" />
         </mxCell>
         <mxCell id="CsTmaGD1aU-mV8qhUe4z-4" value="冲锋野牛" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#f8cecc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="1" vertex="1">
           <mxGeometry x="320" y="168" width="152" height="37" as="geometry" />
