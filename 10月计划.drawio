@@ -77,7 +77,7 @@
           <mxGeometry x="225" y="411" width="132" height="36" as="geometry" />
         </mxCell>
         <mxCell id="4Wf9d1rDj4cqY6XMbrsE-1" value="saas适配" style="shape=step;perimeter=stepPerimeter;strokeColor=#6C8EBF;fontFamily=Helvetica;fontSize=14;fontColor=#6C8EBF;fillColor=#dae8fc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
-          <mxGeometry x="218" y="268" width="117" height="39" as="geometry" />
+          <mxGeometry x="214" y="268" width="117" height="36" as="geometry" />
         </mxCell>
         <mxCell id="4Wf9d1rDj4cqY6XMbrsE-2" value="&lt;font color=&quot;#67ab9f&quot; style=&quot;&quot; face=&quot;Courier New&quot;&gt;&lt;b style=&quot;&quot;&gt;1月第1周&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="704" y="49" width="120" height="43" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="457" y="269" width="131" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4Wf9d1rDj4cqY6XMbrsE-11" value="火箭" style="shape=step;perimeter=stepPerimeter;strokeColor=#FF99CC;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#FFCCE6;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
-          <mxGeometry x="570" y="220" width="252" height="35" as="geometry" />
+          <mxGeometry x="569" y="219" width="252" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4Wf9d1rDj4cqY6XMbrsE-12" value="封神 " style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#F8988D;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
           <mxGeometry x="221" y="318.5" width="266" height="36.5" as="geometry" />
@@ -128,10 +128,10 @@
           <mxGeometry x="548" y="364.5" width="132" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="4Wf9d1rDj4cqY6XMbrsE-19" value="赏金船长" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#F8988D;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
-          <mxGeometry x="575" y="268.25" width="160" height="36.5" as="geometry" />
+          <mxGeometry x="575" y="268.25" width="149" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="4Wf9d1rDj4cqY6XMbrsE-21" value="PG非消除" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#F8988D;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
-          <mxGeometry x="723" y="269" width="104" height="36.5" as="geometry" />
+          <mxGeometry x="713" y="269" width="114" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="4Wf9d1rDj4cqY6XMbrsE-23" value="PG非消除" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#F8988D;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
           <mxGeometry x="668" y="364.5" width="156" height="36.5" as="geometry" />
