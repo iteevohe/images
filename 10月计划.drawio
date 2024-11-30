@@ -31,7 +31,7 @@
         <mxCell id="jHLEkjA2fBFGdiIuungd-9" value="server_1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCC99;" parent="1" vertex="1">
           <mxGeometry x="96" y="168" width="116" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="jHLEkjA2fBFGdiIuungd-6" value="cocos_yq" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCC99;" parent="1" vertex="1">
+        <mxCell id="jHLEkjA2fBFGdiIuungd-6" value="cocos_1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCC99;" parent="1" vertex="1">
           <mxGeometry x="96" y="116" width="116" height="32" as="geometry" />
         </mxCell>
         <mxCell id="jHLEkjA2fBFGdiIuungd-13" value="cocos_2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCC99;" parent="1" vertex="1">
@@ -71,7 +71,7 @@
           <mxGeometry x="96" y="460" width="118" height="33" as="geometry" />
         </mxCell>
         <mxCell id="CsTmaGD1aU-mV8qhUe4z-8" value="伽罗宝石2" style="shape=step;perimeter=stepPerimeter;strokeColor=#6C8EBF;fontFamily=Helvetica;fontSize=14;fontColor=#6C8EBF;fillColor=#dae8fc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="1" vertex="1">
-          <mxGeometry x="222" y="460" width="360" height="39" as="geometry" />
+          <mxGeometry x="222" y="460" width="361" height="39" as="geometry" />
         </mxCell>
         <mxCell id="CsTmaGD1aU-mV8qhUe4z-9" value="百搭王牌" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#F8988D;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="1" vertex="1">
           <mxGeometry x="225" y="411" width="132" height="36" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry x="460" y="167.25" width="131" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="4Wf9d1rDj4cqY6XMbrsE-9" value="无限王牌 " style="shape=step;perimeter=stepPerimeter;strokeColor=#FF99CC;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#FFCCE6;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
-          <mxGeometry x="222" y="508" width="357" height="34" as="geometry" />
+          <mxGeometry x="222" y="508" width="361" height="34" as="geometry" />
         </mxCell>
         <mxCell id="4Wf9d1rDj4cqY6XMbrsE-10" value="澳门壕梦" style="shape=step;perimeter=stepPerimeter;strokeColor=#FF99CC;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#FFCCE6;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
           <mxGeometry x="457" y="269" width="131" height="35" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry x="322" y="116" width="265" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4Wf9d1rDj4cqY6XMbrsE-15" value="PG非消除" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#F8988D;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
-          <mxGeometry x="572" y="460" width="256" height="36.5" as="geometry" />
+          <mxGeometry x="572" y="461" width="256" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="4Wf9d1rDj4cqY6XMbrsE-16" value="JILI非消除" style="shape=step;perimeter=stepPerimeter;strokeColor=#FF99CC;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#FFCCE6;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
           <mxGeometry x="707.5" y="168" width="118.5" height="35" as="geometry" />
